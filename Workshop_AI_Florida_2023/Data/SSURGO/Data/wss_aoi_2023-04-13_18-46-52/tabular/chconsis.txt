@@ -1,0 +1,4 @@
+"Friable"|||||"Nonsticky"|"Nonplastic"|Yes|"67861803"|"7995993"
+"Friable"|||||"Nonsticky"|"Nonplastic"|Yes|"67861802"|"7995996"
+"Firm"|||||"Very sticky"|"Very plastic"|Yes|"67861801"|"7995995"
+"Firm"|||||"Slightly sticky"|"Slightly plastic"|Yes|"67861800"|"7995994"

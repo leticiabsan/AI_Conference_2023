@@ -1,0 +1,2 @@
+"CmA"|"Cancienne silt loam, 0 to 1 percent slopes"|"Consociation"||6768|||||||"All areas are prime farmland"|||||"Order 2"||||||"15023"|"609759"
+"ThA"|"Thibaut silty clay, 0 to 1 percent slopes"|"Consociation"||2876|||||||"All areas are prime farmland"|||||"Order 2"||||||"15023"|"610868"

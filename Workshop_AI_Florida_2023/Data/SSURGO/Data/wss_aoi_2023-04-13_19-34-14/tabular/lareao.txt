@@ -1,0 +1,7 @@
+"County or Parish"|"LA033"|"East Baton Rouge"|301700|"15023"|"515701"
+"MLRA"|"134"|"Southern Mississippi Valley Loess"|254996|"15023"|"515702"
+"MLRA"|"131A"|"Southern Mississippi River Alluvium"|46704|"15023"|"515703"
+"MLRA Soil Survey Area"|"7-DEN"|"Denham Springs, Louisiana"||"15023"|"515704"
+"MLRA Soil Survey Regional Office Area"|"7"|"Auburn, AL"||"15023"|"515705"
+"Rainfall Factor Area (USLE)"|"500"|"Rainfall Factor"|301700|"15023"|"515706"
+"State or Territory"|"LA"|"Louisiana"|301700|"15023"|"515707"

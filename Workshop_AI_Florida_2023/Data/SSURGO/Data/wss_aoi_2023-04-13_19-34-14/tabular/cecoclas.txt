@@ -1,0 +1,7 @@
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F131AY503LA"|"Delta Plain - Somewhat Poorly Drained Bottomland Hardwoods"|"22589577"|"8392469"
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F131AY502LA"|"Delta Plain - Poorly Drained Backswamp"|"22589578"|"8392470"
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F131AY502LA"|"Delta Plain - Poorly Drained Backswamp"|"22589579"|"8392471"
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F131AY503LA"|"Delta Plain - Somewhat Poorly Drained Bottomland Hardwoods"|"22589580"|"8392472"
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F131AY502LA"|"Delta Plain - Poorly Drained Backswamp"|"22589584"|"8392383"
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F131AY503LA"|"Delta Plain - Somewhat Poorly Drained Bottomland Hardwoods"|"22589585"|"8392384"
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F131AY502LA"|"Delta Plain - Poorly Drained Backswamp"|"22589586"|"8392385"

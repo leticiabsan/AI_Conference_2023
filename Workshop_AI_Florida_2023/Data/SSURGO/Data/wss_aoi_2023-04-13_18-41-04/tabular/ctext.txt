@@ -1,0 +1,783 @@
+09/06/2018 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Dundee soil is a minor component."|"22703657"|"23093759"
+09/06/2018 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Tensas soil is a minor component."|"22703658"|"23093760"
+08/03/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Alligator component makes up 90 percent of the map unit. Slopes are 0 to 1 percent. This component is on backswamps, Mississippi River alluvial plains. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is low.  Available water to a depth of 60 inches (or restricted depth) is moderate.  Shrink-swell potential is very high. This soil is occasionally flooded. It is not ponded. A seasonal zone of water saturation is at 0 inches during January, February, March, April, May, June, July, December. Organic matter content in the surface horizon is about 2 percent. This component is in the F131AY402LA Tensas Basin - Poorly Drained Backswamp ecological site. Nonirrigated land capability classification is 4w.  This soil meets hydric criteria.   "|"22703659"|"23093761"
+04/23/2020 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Forestdale soil is a minor component."|"22703714"|"23093845"
+04/23/2020 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Sharkey soil is a minor component."|"22703715"|"23093846"
+08/27/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Dowling component makes up 83 percent of the map unit. Slopes are 0 to 1 percent. This component is on backswamps of flood plains, meander belts. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is very poorly drained.  Water movement in the most restrictive layer is low.  Available water to a depth of 60 inches (or restricted depth) is moderate.  Shrink-swell potential is very high. This soil is frequently flooded. It is frequently ponded. A seasonal zone of water saturation is at 0 inches during January, February, March, April, May, June, July, August, September, October, November, December. Organic matter content in the surface horizon is about 3 percent. This component is in the F131AY401LA Tensas Basin - Frequently Flooded Ponded Very Poorly Drained Oxbows and Swales ecological site. Nonirrigated land capability classification is 7w.  This soil meets hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 1 percent. There are no saline horizons within 30 inches of the soil surface. "|"22703716"|"23093847"
+04/23/2020 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Alligator soil is a minor component."|"22703717"|"23093848"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Smithdale soil is a minor component."|"22703575"|"23093626"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F133BY005TX"|"F133BY005TX - Loamy Upland
+
+Ecological Site Concept
+The Loamy Uplands have very deep loamy soils greater than 80 inches. The ecological sites produce high amounts of plant biomass because of the loamy growing medium with nonrestrictive soil textures through the soil profiles with adequate water-holding capacity. The sites generally have the most robust plant communities of any adjacent sites.
+
+Soil Features
+The soils of this site are deep and characterized by loams throughout the soil profile, measured to 80 inches. The soils belong to the alfisol and ultisol orders and have well developed horizons. The Bowie series is a representative soil and consists of very deep, well drained, moderately slowly permeable soils that formed in loamy residuum from Southern Coastal Plain marine deposits. The series is classified as a fine-loamy, siliceous, semiactive, thermic Plinthic Paleudult. Not all soils within the ecological site will have the same taxonomic classification, but produce similar vegetative communities. Other soils are included within the ecological site and all are defined by deep fine-loamy and fine-silty control sections. The soils included are well drained or moderately well drained. Soils that are moderately well drained have a general increase in clay in the lower horizons. Besides the Bowie series, the Alto, Beauregard, Blevins, Diboll, Elrose, Eylau, Fuller, Gunter, Keatchie, Keithville, Kullit, Latex, Oakwood, Olla, Penning, Rigolette, Rogan, Ruston, Saffell, Sailes, Sawlit, Sawtown, Sawyer, Scottsville, Smithdale, Ulto, and Warnock are correlated to the Loamy Uplands.
+
+Reference Community
+The Shortleaf Pine/Red Oak Woodland (1.1) is the first community in State 1. Litter accumulation is moderate and understory vegetation is naturally dense. The overstory canopy is dominated by shortleaf pine and red oaks, and are usually in higher densities (total basal area) than the adjacently surrounding upland sites. The overstory canopy can also be interspersed with post oak (Quercus stellata), blackjack oak (Quercus marilandica), white oak (Quercus alba), and black hickory (Carya texana). The sites can be dominated by shortleaf pines, 100 percent canopy cover, but range as low as 60 percent with the oak and hickories comprising the rest of the overstory. Given time to mature, the sites produce tall, straight overstory pines which can reach heights above 100 feet. This community is characterized by a dense ground layer with relatively no bare ground (less than 5 percent). Needleleaf rosette grass (Dichanthelium aciculare) is a highly abundant grass throughout the herbaceous understory. Other grasses seen, though not as dominant are longleaf woodoats (Chasmanthium sessiliflorum), variable panicgrass (Dichanthelium commutatum), and little bluestem (Schizachyrium scoparium). Forbs occupying the site include flowering spurge (Euphorbia corollata), hairy small-leaf ticktrefoil (Desmodium ciliare), and downy milkpea (Galactia volubilis). The shrub layer of the community is very conspicuous, containing numerous American beautyberry (Callicarpa americana) and yaupon (Ilex vomitoria).
+
+Reference Plants List
+shortleaf pine, southern red oak, blackjack oak, post oak, black hickory, needleleaf rosette grass, variable panicgrass, little bluestem, longleaf woodoats, eastern poison ivy, dogfennel, flowering spurge, Nuttall's wild indigo, St. Andrew's cross, hairy small-leaf ticktrefoil, slender yellow woodsorrel, whitemouth dayflower, downy milkpea, nettleleaf noseburn, western brackenfern, American beautyberry, yaupon, sawtooth blackberry, parsley hawthorn, farkleberry, rusty blackhaw, summer grape, Virginia creeper, saw greenbrier, cat greenbrier, laurel greenbrier
+
+MLRA - 133B
+Legacy Ecosite ID - F133BY005TX"|"22703575"|"23093627"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Guyton component makes up 85 percent of the map unit. Slopes are 0 to 1 percent. This component is on flat terraces on coastal plains. The parent material consists of loamy alluvium of Holocene age. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is moderately low.  Available water to a depth of 60 inches (or restricted depth) is very high.  Shrink-swell potential is low. This soil is rarely flooded. It is not ponded. A seasonal zone of water saturation is at 9 inches during January, February, March, April, May, December. Organic matter content in the surface horizon is about 2 percent. This component is in the F133BY017TX Loamy Bottomland ecological site. Nonirrigated land capability classification is 3w.  This soil meets hydric criteria.   "|"22703576"|"23093628"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F133BY017TX"|"F133BY017TX - Loamy Bottomland
+
+Ecological Site Concept
+The ecological site has very deep, somewhat poorly drained soils that are frequently flooded. The site is typically flooded for brief to long periods during normal rainfall years. They will stay flooded starting in November and ending in May. The loamy-textured soils combined with the flooding frequency form the plant community. 
+
+Soil Features
+Mattex and Manco are two of the representative soils of the Loamy Bottomlands. This ecological site formed from loamy alluvium and is associated with very deep, somewhat poorly drained, slowly permeable loamy entisols on bottomlands. The first gleyed-subsurface horizon usually appears within 8 to 11 inches. The gleying and other redoximorphic features continue through the profile usually past 80 inches. Gleying and redoximorphic features are caused by prolonged inundation. The sites are very flat with slopes from 0 to 1 percent. Other soils correlated to this site include: Amy, Angelina, Bibb, Bleakwood, Dreka, Groom, Guyton, Kanebreak, Mathiston, Mattex, Nahatche, Pophers, Sardis, Marietta, Mooreville, Ochlockonee, and Socagee.
+
+Reference Community
+The Loamy Bottomland system communities are based highly on micro-relief throughout the landscape. A subtle rise or fall of mere inches can drastically alter the vegetative composition. The willow oak community (1.1) represents the middle-relief elevation in comparison to communities 1.2 and 1.3. Plant species occurring in the willow oak community are usually facultative wet according to the U.S. Army Corps' Wetland Delineation Manual (2010). Understory indicators include blunt broom sedge (Carex tribuloides), smallspike false nettle (Boehmeria cylindrical), and American Buckwheat vine (Brunnichia ovata).
+
+Reference Plants List
+willow oak, water oak, overcup oak, laurel oak, swamp chestnut oak, sweetgum, blackgum, American elm, red maple, giant cane, blunt broom sedge, greater bladder sedge, slender woodoats, marsh flatsedge, smallspike false nettle, camphor pluchea, Virginia dayflower, Canada germander, smallflower thoroughwort, smooth hedgenettle, sensitive fern, false indigo bush, St. Peterswort, sweetscent, American snowbell, possumhaw, dwarf palmetto, willow oak, laurel oak, green ash, cherrybark oak, sugarberry, American buckwheat vine, climbing dogbane, climbing hempvine, catbird grape, American wisteria
+
+MLRA - 133B
+Legacy Ecosite ID - F133BY017TX"|"22703576"|"23093629"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Oula soil is a minor component."|"22703577"|"23093630"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F133BY003TX"|"F133BY003TX - Loamy Over Clayey Upland
+
+Ecological Site Concept
+The Loamy Over Clayey Uplands have loamy-surfaced soils to about 10 inches and a thick layer of clay subsurface soils underneath. The properties associated with uplands and clayey soils form the unique plant community of these sites.
+
+Soil Features
+The soils of this site are moderate to deep and characterized by a thick Bt layer of clay just below a fine sandy loam surface. The Kirvin series is representative and consists of well drained soils. These gently sloping to moderately steep soils formed in weakly consolidated and stratified loamy, sandy, and clayey fluvial marine deposits on uplands of the Claiborne geological group. The series is classified as a fine, mixed, semiactive, thermic Typic Hapludult. Other soils are included with the ecological site and all are defined by a thick clay subsurface soil below the surface. Besides the Kirvin series, these soils are correlated: Angie, Arriola, Bayoudan, Bellwood, Bonwier, Bryarly, Bub, Burkeville, Conroe, Cuthbert, Darley, Eastwood, Etoile, Galilee, Gore, Hornbeck, Huntsburg, Lacerda, Maben, Mahan, Hallsummit, Naclina, Nacogdoches, Natchitoches, Newco, Nikful, Oula, Raylake, Redco, Redsprings, Rosenwall, Ruple, Sacul, Sugartown, Tahoula, Trawick, and Woodtell.
+
+Reference Community
+Shortleaf pines comprise the majority of the overstory. Shortleaf occurrence of the total overstory on any given site is between 75 and 100 percent. Post oaks are usually found on the site as well. Post oaks range from 0 to 25 percent of the total overstory canopy. Blackjack oak (Quercus marilandica), black hickory (Carya texana), and southern red oak (Quercus falcata) are occasionally seen in the overstory and add to the diversity of the site. Along with American beautyberry, yaupon (Ilex vomitoria), deerberry (Vaccinium stamineum) , and rusty blackhaw (Vibrunum rufidulum) are usually associated with the sites as well. The shrub-layer height and densities fluctuate with time since the last fire. Fire prunes their growth back and allows the understory grasses and forbs to stay diverse and abundant. The shrub-layer is the main driver between communities 1.1 and 1.2. As the shrubs begin to grow above 4.5 feet and become denser, the community moves along the pathway from 1.1 to 1.2.
+
+Reference Plants List
+shortleaf pine, post oak, black cherry, black hickory, southern red oak, loblolly pine, sweetgum, blackjack oak, white ash, longleaf woodoats, Ravenel's rosette grass, needleleaf rosette grass, little bluestem, twisted spikerush, purpletop tridens, littlehead nutrush, hairy bedstraw, eastern poison ivy, Canadian horseweed, St. Andrew's cross, slender yellow woodsorrel, devil's grandmother, parsley hawthorn, Canadian blacksnakeroot, Nuttall's wild indigo, slender lespedeza, Texas ironweed, spurred butterfly pea, doubleform snoutbean, Virginia snakeroot, helmet flower, sidebeak pencilflower, flowering spurge, western brackenfern, resurrection fern, American beautyberry, yaupon, sawtooth blackberry, deerberry, rusty blackhaw, possumhaw, farkleberry, post oak, winged elm, sweetgum, loblolly pine, white fringetree, hophornbeam, shortleaf pine, southern red oak, white ash, blackjack oak, black hickory, Virginia creeper, saw greenbrier, cat greenbrier, roundleaf greenbrier, lanceleaf greenbrier, summer grape, evening trumpetflower, trumpet creeper
+
+MLRA - 133B
+Legacy Ecosite ID - F133BY003TX"|"22703577"|"23093631"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Iulus soil is a minor component."|"22703779"|"23093945"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F133BY014TX"|"F133BY014TX - Creek Bottomland
+
+Ecological Site Concept
+The ecological site has developed along fast moving water bodies that flood occasionally to frequently. The sites do not pond water and are moderately well to well drained. The plant communities are not typically hydrophitic, but are influenced by the flooding regime.
+
+Soil Features
+Iulus is a representative soil of the Creek Bottomlands. The series consists of very deep, moderately well drained, moderately permeable soils on flood plains. These soils formed in recent alluvium derived from coastal plain sediments. The slope ranges from 0 to 1 percent. Other soils correlated to this ecological site include: Dardanelle, Dela, Garton, Hannahatchee, Idabel, Iuka, Kosse, Koury, Laneville, Lotus, Marietta, Mooreville, Nugent, Ochlockonee, Owentown, and Thenas.
+
+Reference Community
+The Creek Bottomland Communities are highly based on proximity to the stream channel and micro-relief throughout the site. A subtle rise or fall of mere inches can drastically alter the vegetative composition. The Water Oak/White Oak community (1.1) represents the higher elevation sites, further away from the stream bank in comparison to community 1.2. Plant species occurring in the Water Oak/White Oak community vary from facultative to upland according to the U.S. Army Corps' Wetland Delineation Manual (2010). Understory indicators include; Indian woodoats, longleaf woodoats (Chasmanthium sessiliflorum), partridgeberry, Carolina elephantsfoot (Elephantopus carolinianus), and American beautyberry (Callicarpa americana).
+
+Reference Plants List
+water oak, white oak, sweetgum, loblolly pine, American beech, red maple, southern red oak, shortleaf pine, southern magnolia, blackgum, longleaf woodoats, variable panicgrass, needleleaf rosette grass, Indian woodoats, partridgeberry, eastern poison ivy, hairy bedstraw, Carolina elephantsfoot, St. Andrew's cross, Canadian blacksnakeroot, Canada goldenrod, mayapple, beechdrops, early blue violet, Texas dutchman's pipe, American beautyberry, two-wing silverbell, southern arrowwood, American witchhazel, yaupon, common sweetleaf, farkleberry, Carolina laurelcherry, red maple, sweetgum, American hornbeam, water oak, winged elm, red mulberry, white oak, flowering dogwood, hophornbeam, American beech, muscadine, Virginia creeper, cat greenbrier, roundleaf greenbrier, lanceleaf greenbrier, evening trumpetflower, crossvine
+
+MLRA - 133B
+Legacy Ecosite ID - F133BY014TX"|"22703779"|"23093946"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F133BY013TX"|"F133BY013TX - Terrace
+
+Ecological Site Concept
+The Terrace ecological site has very deep soils on terrace landforms. These sites are located on a higher landform than bottomlands and are not as wet. The sites are situated on a lower landform than the uplands and are not as dry. The sites do not flood or pond. This unique position between the drier uplands and wetter bottomlands creates their plant community.
+
+Soil Features
+Alazan, Attoyac, and Bernaldo are representative soils of the Terraces. The Terraces can have a wide range of textures and depths. The grouping factor is, all are located on the terrace landform position. Besides the previously listed soils, these are correlated as well: Addielou, Annona, Austonio, Bearhead, Besner, Bistineau, Cadeville, Cart, Chireno, Eastham, Elysian, Erno, Forbing, Freestone, Gallime, Garner, Glenmora, Hallsbluff, Keiffer, Landman, Latch, Mckamie, Moten, Multey, Raino, Shatta, Spurger, Timpson, Vesey, Waskom, and Woden.
+
+Reference Community
+Terrace sites are highly variable in their overstory composition. While white oak and loblolly pine are the dominant species, the overstory frequently has southern red oak, (Quercus falcata), sweetgum (Liquidambar styraciflua), and shortleaf pine (Pinus echinata) intermingled. Longleaf pine (Pinus palustris) may occur in the southern portions of the region. White oaks and/or loblolly pine may make up 75 percent of the overstory at any given time. The other hardwood and pine species make up the rest of the overstory. Shrubs are an important component in the ecological site. American beautyberry, yaupon, and possumhaw are dominant. Sassafras (Sassafras albidum), parsley hawthorn (Crataegus marshalii), and farkleberry (Vaccinium arboreum) are common, but seen in lesser densities. The shrub-layer height and densities fluctuate with time since the last fire. Fire prunes their growth back and allows the understory grasses and forbs to stay diverse and abundant. The shrub layer is the main driver between communities 1.1 and 1.2. As the shrubs begin to grow above 4.5 feet and become more dense, the community moves along the pathway from 1.1 to 1.2. The infrequency of fire causes an accumulation of litter throughout the sites and bare ground is uncommon. The most dominant gramanoids are longleaf woodoats, slender woodoats (Chasmanthium laxum), and cypress swamp sedge (Carex joorii). The micro-lows are often colonized by broomsedge bluestem (Andropogon virginicus). Partridgeberry and Carolina elephanstfoot (Elephantopus carolinianus) are highly associated to the site.
+
+Reference Plants List
+white oak, loblolly pine, southern red oak, sweetgum, shortleaf pine, white ash, longleaf pine, blackgum, longleaf woodoats, giant cane, broomsedge bluestem, variable panicgrass, slender woodoats, cypress swamp sedge, eastern poison ivy, partridgeberry, St. Andrew's cross, Carolina elephantsfoot, Missouri violet, slender yellow woodsorrel, ebony spleenwort, resurrection fern, American beautyberry, possumhaw, yaupon, sassafras, muscadine, parsley hawthorn, farkleberry, wax myrtle, American hornbeam, southern arrowwood, sweetgum, white oak, loblolly pine, common persimmon, American holly, blackgum, bitternut hickory, greenbrier, Virginia creeper, Alabama supplejack, crossvine, climbing dogbane
+
+MLRA - 133B
+Legacy Ecosite ID - F133BY013TX"|"22703780"|"23093947"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Cahaba soil is a minor component."|"22703780"|"23093948"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Guyton, frequently flooded component makes up 85 percent of the map unit. Slopes are 0 to 1 percent. This component is on flood plains on coastal plains. The parent material consists of loamy alluvium derived from sedimentary rock. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is moderately low.  Available water to a depth of 60 inches (or restricted depth) is very high.  Shrink-swell potential is low. This soil is frequently flooded. It is not ponded. A seasonal zone of water saturation is at 0 inches during January, February, March, April, May, December. Organic matter content in the surface horizon is about 2 percent. This component is in the F133BY017TX Loamy Bottomland ecological site. Nonirrigated land capability classification is 5w.  This soil meets hydric criteria.  There are no saline horizons within 30 inches of the soil surface. "|"22703781"|"23093949"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F133BY017TX"|"F133BY017TX - Loamy Bottomland
+
+Ecological Site Concept
+The ecological site has very deep, somewhat poorly drained soils that are frequently flooded. The site is typically flooded for brief to long periods during normal rainfall years. They will stay flooded starting in November and ending in May. The loamy-textured soils combined with the flooding frequency form the plant community. 
+
+Soil Features
+Mattex and Manco are two of the representative soils of the Loamy Bottomlands. This ecological site formed from loamy alluvium and is associated with very deep, somewhat poorly drained, slowly permeable loamy entisols on bottomlands. The first gleyed-subsurface horizon usually appears within 8 to 11 inches. The gleying and other redoximorphic features continue through the profile usually past 80 inches. Gleying and redoximorphic features are caused by prolonged inundation. The sites are very flat with slopes from 0 to 1 percent. Other soils correlated to this site include: Amy, Angelina, Bibb, Bleakwood, Dreka, Groom, Guyton, Kanebreak, Mathiston, Mattex, Nahatche, Pophers, Sardis, Marietta, Mooreville, Ochlockonee, and Socagee.
+
+Reference Community
+The Loamy Bottomland system communities are based highly on micro-relief throughout the landscape. A subtle rise or fall of mere inches can drastically alter the vegetative composition. The willow oak community (1.1) represents the middle-relief elevation in comparison to communities 1.2 and 1.3. Plant species occurring in the willow oak community are usually facultative wet according to the U.S. Army Corps' Wetland Delineation Manual (2010). Understory indicators include blunt broom sedge (Carex tribuloides), smallspike false nettle (Boehmeria cylindrical), and American Buckwheat vine (Brunnichia ovata).
+
+Reference Plants List
+willow oak, water oak, overcup oak, laurel oak, swamp chestnut oak, sweetgum, blackgum, American elm, red maple, giant cane, blunt broom sedge, greater bladder sedge, slender woodoats, marsh flatsedge, smallspike false nettle, camphor pluchea, Virginia dayflower, Canada germander, smallflower thoroughwort, smooth hedgenettle, sensitive fern, false indigo bush, St. Peterswort, sweetscent, American snowbell, possumhaw, dwarf palmetto, willow oak, laurel oak, green ash, cherrybark oak, sugarberry, American buckwheat vine, climbing dogbane, climbing hempvine, catbird grape, American wisteria
+
+MLRA - 133B
+Legacy Ecosite ID - F133BY017TX"|"22703781"|"23093950"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F133BY017TX"|"F133BY017TX - Loamy Bottomland
+
+Ecological Site Concept
+The ecological site has very deep, somewhat poorly drained soils that are frequently flooded. The site is typically flooded for brief to long periods during normal rainfall years. They will stay flooded starting in November and ending in May. The loamy-textured soils combined with the flooding frequency form the plant community. 
+
+Soil Features
+Mattex and Manco are two of the representative soils of the Loamy Bottomlands. This ecological site formed from loamy alluvium and is associated with very deep, somewhat poorly drained, slowly permeable loamy entisols on bottomlands. The first gleyed-subsurface horizon usually appears within 8 to 11 inches. The gleying and other redoximorphic features continue through the profile usually past 80 inches. Gleying and redoximorphic features are caused by prolonged inundation. The sites are very flat with slopes from 0 to 1 percent. Other soils correlated to this site include: Amy, Angelina, Bibb, Bleakwood, Dreka, Groom, Guyton, Kanebreak, Mathiston, Mattex, Nahatche, Pophers, Sardis, Marietta, Mooreville, Ochlockonee, and Socagee.
+
+Reference Community
+The Loamy Bottomland system communities are based highly on micro-relief throughout the landscape. A subtle rise or fall of mere inches can drastically alter the vegetative composition. The willow oak community (1.1) represents the middle-relief elevation in comparison to communities 1.2 and 1.3. Plant species occurring in the willow oak community are usually facultative wet according to the U.S. Army Corps' Wetland Delineation Manual (2010). Understory indicators include blunt broom sedge (Carex tribuloides), smallspike false nettle (Boehmeria cylindrical), and American Buckwheat vine (Brunnichia ovata).
+
+Reference Plants List
+willow oak, water oak, overcup oak, laurel oak, swamp chestnut oak, sweetgum, blackgum, American elm, red maple, giant cane, blunt broom sedge, greater bladder sedge, slender woodoats, marsh flatsedge, smallspike false nettle, camphor pluchea, Virginia dayflower, Canada germander, smallflower thoroughwort, smooth hedgenettle, sensitive fern, false indigo bush, St. Peterswort, sweetscent, American snowbell, possumhaw, dwarf palmetto, willow oak, laurel oak, green ash, cherrybark oak, sugarberry, American buckwheat vine, climbing dogbane, climbing hempvine, catbird grape, American wisteria
+
+MLRA - 133B
+Legacy Ecosite ID - F133BY017TX"|"22703782"|"23093951"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Guyton, ponded soil is a minor component."|"22703782"|"23093952"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Hebert component makes up 88 percent of the map unit. Slopes are 0 to 1 percent. This component is on natural levees on alluvial plains. The parent material consists of Holocene silty alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 27 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 1 percent. This component is in the F131BY003AR Loamy Flood Plain ecological site. Nonirrigated land capability classification is 2w.  This soil does not meet hydric criteria.  There are no saline horizons within 30 inches of the soil surface. "|"22703774"|"23093935"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"22703774"|"23093936"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"22703775"|"23093937"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Portland soil is a minor component."|"22703775"|"23093938"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"22703776"|"23093939"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Perry soil is a minor component."|"22703776"|"23093940"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Rilla soil is a minor component."|"22703777"|"23093941"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"22703777"|"23093942"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Gallion soil is a minor component."|"22703778"|"23093943"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"22703778"|"23093944"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Hebert component makes up 85 percent of the map unit. Slopes are 0 to 1 percent. This component is on natural levees on Ouachita River delta plains. The parent material consists of loamy alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is moderate. This soil is rarely flooded. It is not ponded. A seasonal zone of water saturation is at 27 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 2 percent. This component is in the F131BY003AR Loamy Flood Plain ecological site. Nonirrigated land capability classification is 2w.  This soil does not meet hydric criteria.   "|"22703626"|"23093707"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"22703626"|"23093708"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Perry, hydric soil is a minor component."|"22703627"|"23093709"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"22703627"|"23093710"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Sterlington soil is a minor component."|"22703628"|"23093711"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"22703628"|"23093712"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Rilla soil is a minor component."|"22703629"|"23093713"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"22703629"|"23093714"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Gallion soil is a minor component."|"22703602"|"23093670"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131CY002LA"|"F131CY002LA - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The ecological site consists of very deep, moderately well to well drained, moderately permeable to impermeable soils formed in loamy and silty alluvium. Soils correlated to this site include: Caplis, Caspiana, Coushatta, Gallion, Oklared, Norwood, Rilla, Roxana, Severn, and Sterlington. 
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131C
+Legacy Ecosite ID - F131CY002LA"|"22703602"|"23093671"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Portland soil is a minor component."|"22703603"|"23093672"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"22703603"|"23093673"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Hebert component makes up 91 percent of the map unit. Slopes are 0 to 3 percent. This component is on natural levees on alluvial plains. The parent material consists of Holocene silty alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is occasionally flooded. It is not ponded. A seasonal zone of water saturation is at 27 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 1 percent. This component is in the F131BY003AR Loamy Flood Plain ecological site. Nonirrigated land capability classification is 2w.  This soil does not meet hydric criteria.  There are no saline horizons within 30 inches of the soil surface. "|"22703604"|"23093674"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"22703604"|"23093675"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Perry soil is a minor component."|"22703605"|"23093676"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"22703605"|"23093677"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Guyton, frequently flooded soil is a minor component."|"22703683"|"23093790"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F133BY017TX"|"F133BY017TX - Loamy Bottomland
+
+Ecological Site Concept
+The ecological site has very deep, somewhat poorly drained soils that are frequently flooded. The site is typically flooded for brief to long periods during normal rainfall years. They will stay flooded starting in November and ending in May. The loamy-textured soils combined with the flooding frequency form the plant community. 
+
+Soil Features
+Mattex and Manco are two of the representative soils of the Loamy Bottomlands. This ecological site formed from loamy alluvium and is associated with very deep, somewhat poorly drained, slowly permeable loamy entisols on bottomlands. The first gleyed-subsurface horizon usually appears within 8 to 11 inches. The gleying and other redoximorphic features continue through the profile usually past 80 inches. Gleying and redoximorphic features are caused by prolonged inundation. The sites are very flat with slopes from 0 to 1 percent. Other soils correlated to this site include: Amy, Angelina, Bibb, Bleakwood, Dreka, Groom, Guyton, Kanebreak, Mathiston, Mattex, Nahatche, Pophers, Sardis, Marietta, Mooreville, Ochlockonee, and Socagee.
+
+Reference Community
+The Loamy Bottomland system communities are based highly on micro-relief throughout the landscape. A subtle rise or fall of mere inches can drastically alter the vegetative composition. The willow oak community (1.1) represents the middle-relief elevation in comparison to communities 1.2 and 1.3. Plant species occurring in the willow oak community are usually facultative wet according to the U.S. Army Corps' Wetland Delineation Manual (2010). Understory indicators include blunt broom sedge (Carex tribuloides), smallspike false nettle (Boehmeria cylindrical), and American Buckwheat vine (Brunnichia ovata).
+
+Reference Plants List
+willow oak, water oak, overcup oak, laurel oak, swamp chestnut oak, sweetgum, blackgum, American elm, red maple, giant cane, blunt broom sedge, greater bladder sedge, slender woodoats, marsh flatsedge, smallspike false nettle, camphor pluchea, Virginia dayflower, Canada germander, smallflower thoroughwort, smooth hedgenettle, sensitive fern, false indigo bush, St. Peterswort, sweetscent, American snowbell, possumhaw, dwarf palmetto, willow oak, laurel oak, green ash, cherrybark oak, sugarberry, American buckwheat vine, climbing dogbane, climbing hempvine, catbird grape, American wisteria
+
+MLRA - 133B
+Legacy Ecosite ID - F133BY017TX"|"22703683"|"23093791"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Loring soil is a minor component."|"22703684"|"23093792"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Providence component makes up 24 percent of the map unit. Slopes are 5 to 12 percent. This component is on interfluves on coastal plains. The parent material consists of thin mantle loess over loamy alluvium. Depth to a root restrictive layer, fragipan, is 18 to 38 inches. The natural drainage class is moderately well drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 23 inches during January, February, March. Organic matter content in the surface horizon is about 2 percent. This component is in the F133BY005TX Loamy Upland ecological site. Nonirrigated land capability classification is 4e.  This soil does not meet hydric criteria.   "|"22703685"|"23093793"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F133BY005TX"|"F133BY005TX - Loamy Upland
+
+Ecological Site Concept
+The Loamy Uplands have very deep loamy soils greater than 80 inches. The ecological sites produce high amounts of plant biomass because of the loamy growing medium with nonrestrictive soil textures through the soil profiles with adequate water-holding capacity. The sites generally have the most robust plant communities of any adjacent sites.
+
+Soil Features
+The soils of this site are deep and characterized by loams throughout the soil profile, measured to 80 inches. The soils belong to the alfisol and ultisol orders and have well developed horizons. The Bowie series is a representative soil and consists of very deep, well drained, moderately slowly permeable soils that formed in loamy residuum from Southern Coastal Plain marine deposits. The series is classified as a fine-loamy, siliceous, semiactive, thermic Plinthic Paleudult. Not all soils within the ecological site will have the same taxonomic classification, but produce similar vegetative communities. Other soils are included within the ecological site and all are defined by deep fine-loamy and fine-silty control sections. The soils included are well drained or moderately well drained. Soils that are moderately well drained have a general increase in clay in the lower horizons. Besides the Bowie series, the Alto, Beauregard, Blevins, Diboll, Elrose, Eylau, Fuller, Gunter, Keatchie, Keithville, Kullit, Latex, Oakwood, Olla, Penning, Rigolette, Rogan, Ruston, Saffell, Sailes, Sawlit, Sawtown, Sawyer, Scottsville, Smithdale, Ulto, and Warnock are correlated to the Loamy Uplands.
+
+Reference Community
+The Shortleaf Pine/Red Oak Woodland (1.1) is the first community in State 1. Litter accumulation is moderate and understory vegetation is naturally dense. The overstory canopy is dominated by shortleaf pine and red oaks, and are usually in higher densities (total basal area) than the adjacently surrounding upland sites. The overstory canopy can also be interspersed with post oak (Quercus stellata), blackjack oak (Quercus marilandica), white oak (Quercus alba), and black hickory (Carya texana). The sites can be dominated by shortleaf pines, 100 percent canopy cover, but range as low as 60 percent with the oak and hickories comprising the rest of the overstory. Given time to mature, the sites produce tall, straight overstory pines which can reach heights above 100 feet. This community is characterized by a dense ground layer with relatively no bare ground (less than 5 percent). Needleleaf rosette grass (Dichanthelium aciculare) is a highly abundant grass throughout the herbaceous understory. Other grasses seen, though not as dominant are longleaf woodoats (Chasmanthium sessiliflorum), variable panicgrass (Dichanthelium commutatum), and little bluestem (Schizachyrium scoparium). Forbs occupying the site include flowering spurge (Euphorbia corollata), hairy small-leaf ticktrefoil (Desmodium ciliare), and downy milkpea (Galactia volubilis). The shrub layer of the community is very conspicuous, containing numerous American beautyberry (Callicarpa americana) and yaupon (Ilex vomitoria).
+
+Reference Plants List
+shortleaf pine, southern red oak, blackjack oak, post oak, black hickory, needleleaf rosette grass, variable panicgrass, little bluestem, longleaf woodoats, eastern poison ivy, dogfennel, flowering spurge, Nuttall's wild indigo, St. Andrew's cross, hairy small-leaf ticktrefoil, slender yellow woodsorrel, whitemouth dayflower, downy milkpea, nettleleaf noseburn, western brackenfern, American beautyberry, yaupon, sawtooth blackberry, parsley hawthorn, farkleberry, rusty blackhaw, summer grape, Virginia creeper, saw greenbrier, cat greenbrier, laurel greenbrier
+
+MLRA - 133B
+Legacy Ecosite ID - F133BY005TX"|"22703685"|"23093794"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Kisatchie soil is a minor component."|"22703686"|"23093795"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F133BY004TX"|"F133BY004TX - Loamy Claypan Upland
+
+Ecological Site Concept
+The Loamy Claypan Uplands have loamy-surfaced soils with an abrupt texture change into clay. The textural difference creates the primary force in formation of the the plant community. The sites are known to be very droughty in short periods without precipitation and very wet with low amounts of rain.
+
+Soil Features
+Moswell loam is the representative soil of the Loamy Claypan Uplands. The ecological site is associated with loamy soils over a fine-textured clay subsurface occurring on the Yegua, Manning and Caddell geologic formations. Even though the subsoil has high clay content and is very-slowly permeable, the site is well-drained and does not pond water for any great length. The clay in the subsoil does shift and swell during droughty periods and wet periods. This is evidenced when looking at the crooked tree trunks of the older trees. The abrupt change in clay content from the upper to lower horizons does cause some root restriction. Other soils correlated to this site include: Herty, Kellison, Keltys, Kisatchie, Kitterll, Oakhurst, Rayburn, Urland, and Woodville.
+
+Reference Community
+Shortleaf pine and post oak comprise the majority of the overstory. The occurrence of shortleaf pine in the overstory at any given site is usually 70 to 90 percent. Post oaks have established on the sites at 10 to 30 percent. Other hardwoods are sometimes found colonizing the areas in lesser amounts (less than 5 percent), including oak and hickory species. American beautyberry is extremely prevalent and makes up the majority of the understory shrub layer.
+
+Reference Plants List
+shortleaf pine, post oak, southern red oak, black hickory, blackjack oak, longleaf woodoats, sedge, variable panicgrass, Texas ironweed, devil's grandmother, Virginia tephrosia, partridgeberry, Nuttall's wild indigo, bedstraw, American beautyberry, yaupon, parsley hawthorn, possumhaw, farkleberry, southern arrowwood, shortleaf pine, post oak, southern red oak, blackjack oak, black hickory, hophornbeam, winged elm, loblolly pine, muscadine, greenbrier, blackberry, evening trumpetflower, Alabama supplejack, Virginia creeper
+
+MLRA - 133B
+Legacy Ecosite ID - F133BY004TX"|"22703686"|"23093796"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Smithdale component makes up 23 percent of the map unit. Slopes are 12 to 40 percent. This component is on hillslopes on uplands. The parent material consists of loamy alluvium and/or marine deposits. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. There is no zone of water saturation within a depth of 72 inches. Organic matter content in the surface horizon is about 1 percent. This component is in the F133BY005TX Loamy Upland ecological site. Nonirrigated land capability classification is 7e.  This soil does not meet hydric criteria.   "|"22703687"|"23093797"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F133BY005TX"|"F133BY005TX - Loamy Upland
+
+Ecological Site Concept
+The Loamy Uplands have very deep loamy soils greater than 80 inches. The ecological sites produce high amounts of plant biomass because of the loamy growing medium with nonrestrictive soil textures through the soil profiles with adequate water-holding capacity. The sites generally have the most robust plant communities of any adjacent sites.
+
+Soil Features
+The soils of this site are deep and characterized by loams throughout the soil profile, measured to 80 inches. The soils belong to the alfisol and ultisol orders and have well developed horizons. The Bowie series is a representative soil and consists of very deep, well drained, moderately slowly permeable soils that formed in loamy residuum from Southern Coastal Plain marine deposits. The series is classified as a fine-loamy, siliceous, semiactive, thermic Plinthic Paleudult. Not all soils within the ecological site will have the same taxonomic classification, but produce similar vegetative communities. Other soils are included within the ecological site and all are defined by deep fine-loamy and fine-silty control sections. The soils included are well drained or moderately well drained. Soils that are moderately well drained have a general increase in clay in the lower horizons. Besides the Bowie series, the Alto, Beauregard, Blevins, Diboll, Elrose, Eylau, Fuller, Gunter, Keatchie, Keithville, Kullit, Latex, Oakwood, Olla, Penning, Rigolette, Rogan, Ruston, Saffell, Sailes, Sawlit, Sawtown, Sawyer, Scottsville, Smithdale, Ulto, and Warnock are correlated to the Loamy Uplands.
+
+Reference Community
+The Shortleaf Pine/Red Oak Woodland (1.1) is the first community in State 1. Litter accumulation is moderate and understory vegetation is naturally dense. The overstory canopy is dominated by shortleaf pine and red oaks, and are usually in higher densities (total basal area) than the adjacently surrounding upland sites. The overstory canopy can also be interspersed with post oak (Quercus stellata), blackjack oak (Quercus marilandica), white oak (Quercus alba), and black hickory (Carya texana). The sites can be dominated by shortleaf pines, 100 percent canopy cover, but range as low as 60 percent with the oak and hickories comprising the rest of the overstory. Given time to mature, the sites produce tall, straight overstory pines which can reach heights above 100 feet. This community is characterized by a dense ground layer with relatively no bare ground (less than 5 percent). Needleleaf rosette grass (Dichanthelium aciculare) is a highly abundant grass throughout the herbaceous understory. Other grasses seen, though not as dominant are longleaf woodoats (Chasmanthium sessiliflorum), variable panicgrass (Dichanthelium commutatum), and little bluestem (Schizachyrium scoparium). Forbs occupying the site include flowering spurge (Euphorbia corollata), hairy small-leaf ticktrefoil (Desmodium ciliare), and downy milkpea (Galactia volubilis). The shrub layer of the community is very conspicuous, containing numerous American beautyberry (Callicarpa americana) and yaupon (Ilex vomitoria).
+
+Reference Plants List
+shortleaf pine, southern red oak, blackjack oak, post oak, black hickory, needleleaf rosette grass, variable panicgrass, little bluestem, longleaf woodoats, eastern poison ivy, dogfennel, flowering spurge, Nuttall's wild indigo, St. Andrew's cross, hairy small-leaf ticktrefoil, slender yellow woodsorrel, whitemouth dayflower, downy milkpea, nettleleaf noseburn, western brackenfern, American beautyberry, yaupon, sawtooth blackberry, parsley hawthorn, farkleberry, rusty blackhaw, summer grape, Virginia creeper, saw greenbrier, cat greenbrier, laurel greenbrier
+
+MLRA - 133B
+Legacy Ecosite ID - F133BY005TX"|"22703687"|"23093798"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Oula component makes up 25 percent of the map unit. Slopes are 12 to 40 percent. This component is on interfluves on coastal plains. The parent material consists of acid clayey marine deposits. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is very low.  Available water to a depth of 60 inches (or restricted depth) is moderate.  Shrink-swell potential is high. This soil is not flooded. It is not ponded. There is no zone of water saturation within a depth of 72 inches. Organic matter content in the surface horizon is about 2 percent. This component is in the F133BY003TX Loamy Over Clayey Upland ecological site. Nonirrigated land capability classification is 6e.  This soil does not meet hydric criteria.   "|"22703688"|"23093799"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F133BY003TX"|"F133BY003TX - Loamy Over Clayey Upland
+
+Ecological Site Concept
+The Loamy Over Clayey Uplands have loamy-surfaced soils to about 10 inches and a thick layer of clay subsurface soils underneath. The properties associated with uplands and clayey soils form the unique plant community of these sites.
+
+Soil Features
+The soils of this site are moderate to deep and characterized by a thick Bt layer of clay just below a fine sandy loam surface. The Kirvin series is representative and consists of well drained soils. These gently sloping to moderately steep soils formed in weakly consolidated and stratified loamy, sandy, and clayey fluvial marine deposits on uplands of the Claiborne geological group. The series is classified as a fine, mixed, semiactive, thermic Typic Hapludult. Other soils are included with the ecological site and all are defined by a thick clay subsurface soil below the surface. Besides the Kirvin series, these soils are correlated: Angie, Arriola, Bayoudan, Bellwood, Bonwier, Bryarly, Bub, Burkeville, Conroe, Cuthbert, Darley, Eastwood, Etoile, Galilee, Gore, Hornbeck, Huntsburg, Lacerda, Maben, Mahan, Hallsummit, Naclina, Nacogdoches, Natchitoches, Newco, Nikful, Oula, Raylake, Redco, Redsprings, Rosenwall, Ruple, Sacul, Sugartown, Tahoula, Trawick, and Woodtell.
+
+Reference Community
+Shortleaf pines comprise the majority of the overstory. Shortleaf occurrence of the total overstory on any given site is between 75 and 100 percent. Post oaks are usually found on the site as well. Post oaks range from 0 to 25 percent of the total overstory canopy. Blackjack oak (Quercus marilandica), black hickory (Carya texana), and southern red oak (Quercus falcata) are occasionally seen in the overstory and add to the diversity of the site. Along with American beautyberry, yaupon (Ilex vomitoria), deerberry (Vaccinium stamineum) , and rusty blackhaw (Vibrunum rufidulum) are usually associated with the sites as well. The shrub-layer height and densities fluctuate with time since the last fire. Fire prunes their growth back and allows the understory grasses and forbs to stay diverse and abundant. The shrub-layer is the main driver between communities 1.1 and 1.2. As the shrubs begin to grow above 4.5 feet and become denser, the community moves along the pathway from 1.1 to 1.2.
+
+Reference Plants List
+shortleaf pine, post oak, black cherry, black hickory, southern red oak, loblolly pine, sweetgum, blackjack oak, white ash, longleaf woodoats, Ravenel's rosette grass, needleleaf rosette grass, little bluestem, twisted spikerush, purpletop tridens, littlehead nutrush, hairy bedstraw, eastern poison ivy, Canadian horseweed, St. Andrew's cross, slender yellow woodsorrel, devil's grandmother, parsley hawthorn, Canadian blacksnakeroot, Nuttall's wild indigo, slender lespedeza, Texas ironweed, spurred butterfly pea, doubleform snoutbean, Virginia snakeroot, helmet flower, sidebeak pencilflower, flowering spurge, western brackenfern, resurrection fern, American beautyberry, yaupon, sawtooth blackberry, deerberry, rusty blackhaw, possumhaw, farkleberry, post oak, winged elm, sweetgum, loblolly pine, white fringetree, hophornbeam, shortleaf pine, southern red oak, white ash, blackjack oak, black hickory, Virginia creeper, saw greenbrier, cat greenbrier, roundleaf greenbrier, lanceleaf greenbrier, summer grape, evening trumpetflower, trumpet creeper
+
+MLRA - 133B
+Legacy Ecosite ID - F133BY003TX"|"22703688"|"23093800"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Hebert soil is a minor component."|"22703751"|"23093896"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"22703751"|"23093897"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Perry, occasionally flooded soil is a minor component."|"22703752"|"23093898"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"22703752"|"23093899"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Perry component makes up 85 percent of the map unit. Slopes are 0 to 1 percent. This component is on lower natural levees on Red and Arkansas River delta plains. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is very low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is very high. This soil is rarely flooded. It is not ponded. A seasonal zone of water saturation is at 12 inches during January, February, March, April, May, June, December. Organic matter content in the surface horizon is about 2 percent. This component is in the F131BY006AR Clayey Flood Plain ecological site. Nonirrigated land capability classification is 3w.  This soil meets hydric criteria.   "|"22703753"|"23093900"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"22703753"|"23093901"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"22703706"|"23093829"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Perry, non-flooded soil is a minor component."|"22703706"|"23093830"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"22703707"|"23093831"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Perry, occasionally flooded component makes up 85 percent of the map unit. Slopes are 0 to 1 percent. This component is on lower backswamps on Red River and Arkansas River river valleys. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is low.  Available water to a depth of 60 inches (or restricted depth) is moderate.  Shrink-swell potential is very high. This soil is occasionally flooded. It is not ponded. A seasonal zone of water saturation is at 12 inches during January, February, March, April, May, June, December. Organic matter content in the surface horizon is about 2 percent. This component is in the F131BY006AR Clayey Flood Plain ecological site. Nonirrigated land capability classification is 4w.  This soil meets hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 1 percent. The soil has a very slightly saline horizon within 30 inches of the soil surface. "|"22703707"|"23093832"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"22703708"|"23093833"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Portland soil is a minor component."|"22703708"|"23093834"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"22703709"|"23093835"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Hebert soil is a minor component."|"22703709"|"23093836"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Hebert, occasionally flooded soil is a minor component."|"22703767"|"23093924"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"22703767"|"23093925"
+|"Nontechnical description"|"WSG"||"woodland
+suitability group 2o4.
+"|"22703768"|"23093926"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Rilla component makes up 90 percent of the map unit. Slopes are 0 to 1 percent. This component is on natural levees, Arkansas River river valleys. The parent material consists of loamy alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is very high.  Shrink-swell potential is moderate. This soil is rarely flooded. It is not ponded. A seasonal zone of water saturation is at 60 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 1 percent. This component is in the F131BY003AR Loamy Flood Plain ecological site. Nonirrigated land capability classification is 2e.  This soil does not meet hydric criteria.  There are no saline horizons within 30 inches of the soil surface. "|"22703768"|"23093927"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"22703768"|"23093928"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Perry soil is a minor component."|"22703769"|"23093929"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"22703769"|"23093930"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Loring soil is a minor component."|"22703693"|"23093805"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Smithdale component makes up 31 percent of the map unit. Slopes are 12 to 40 percent. This component is on hillslopes on uplands. The parent material consists of loamy alluvium and/or marine deposits. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. There is no zone of water saturation within a depth of 72 inches. Organic matter content in the surface horizon is about 1 percent. This component is in the F133BY005TX Loamy Upland ecological site. Nonirrigated land capability classification is 7e.  This soil does not meet hydric criteria.   "|"22703694"|"23093806"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F133BY005TX"|"F133BY005TX - Loamy Upland
+
+Ecological Site Concept
+The Loamy Uplands have very deep loamy soils greater than 80 inches. The ecological sites produce high amounts of plant biomass because of the loamy growing medium with nonrestrictive soil textures through the soil profiles with adequate water-holding capacity. The sites generally have the most robust plant communities of any adjacent sites.
+
+Soil Features
+The soils of this site are deep and characterized by loams throughout the soil profile, measured to 80 inches. The soils belong to the alfisol and ultisol orders and have well developed horizons. The Bowie series is a representative soil and consists of very deep, well drained, moderately slowly permeable soils that formed in loamy residuum from Southern Coastal Plain marine deposits. The series is classified as a fine-loamy, siliceous, semiactive, thermic Plinthic Paleudult. Not all soils within the ecological site will have the same taxonomic classification, but produce similar vegetative communities. Other soils are included within the ecological site and all are defined by deep fine-loamy and fine-silty control sections. The soils included are well drained or moderately well drained. Soils that are moderately well drained have a general increase in clay in the lower horizons. Besides the Bowie series, the Alto, Beauregard, Blevins, Diboll, Elrose, Eylau, Fuller, Gunter, Keatchie, Keithville, Kullit, Latex, Oakwood, Olla, Penning, Rigolette, Rogan, Ruston, Saffell, Sailes, Sawlit, Sawtown, Sawyer, Scottsville, Smithdale, Ulto, and Warnock are correlated to the Loamy Uplands.
+
+Reference Community
+The Shortleaf Pine/Red Oak Woodland (1.1) is the first community in State 1. Litter accumulation is moderate and understory vegetation is naturally dense. The overstory canopy is dominated by shortleaf pine and red oaks, and are usually in higher densities (total basal area) than the adjacently surrounding upland sites. The overstory canopy can also be interspersed with post oak (Quercus stellata), blackjack oak (Quercus marilandica), white oak (Quercus alba), and black hickory (Carya texana). The sites can be dominated by shortleaf pines, 100 percent canopy cover, but range as low as 60 percent with the oak and hickories comprising the rest of the overstory. Given time to mature, the sites produce tall, straight overstory pines which can reach heights above 100 feet. This community is characterized by a dense ground layer with relatively no bare ground (less than 5 percent). Needleleaf rosette grass (Dichanthelium aciculare) is a highly abundant grass throughout the herbaceous understory. Other grasses seen, though not as dominant are longleaf woodoats (Chasmanthium sessiliflorum), variable panicgrass (Dichanthelium commutatum), and little bluestem (Schizachyrium scoparium). Forbs occupying the site include flowering spurge (Euphorbia corollata), hairy small-leaf ticktrefoil (Desmodium ciliare), and downy milkpea (Galactia volubilis). The shrub layer of the community is very conspicuous, containing numerous American beautyberry (Callicarpa americana) and yaupon (Ilex vomitoria).
+
+Reference Plants List
+shortleaf pine, southern red oak, blackjack oak, post oak, black hickory, needleleaf rosette grass, variable panicgrass, little bluestem, longleaf woodoats, eastern poison ivy, dogfennel, flowering spurge, Nuttall's wild indigo, St. Andrew's cross, hairy small-leaf ticktrefoil, slender yellow woodsorrel, whitemouth dayflower, downy milkpea, nettleleaf noseburn, western brackenfern, American beautyberry, yaupon, sawtooth blackberry, parsley hawthorn, farkleberry, rusty blackhaw, summer grape, Virginia creeper, saw greenbrier, cat greenbrier, laurel greenbrier
+
+MLRA - 133B
+Legacy Ecosite ID - F133BY005TX"|"22703694"|"23093807"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Oula component makes up 25 percent of the map unit. Slopes are 12 to 40 percent. This component is on interfluves on coastal plains. The parent material consists of acid clayey marine deposits. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is very low.  Available water to a depth of 60 inches (or restricted depth) is moderate.  Shrink-swell potential is high. This soil is not flooded. It is not ponded. There is no zone of water saturation within a depth of 72 inches. Organic matter content in the surface horizon is about 2 percent. This component is in the F133BY003TX Loamy Over Clayey Upland ecological site. Nonirrigated land capability classification is 7e.  This soil does not meet hydric criteria.   "|"22703695"|"23093808"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F133BY003TX"|"F133BY003TX - Loamy Over Clayey Upland
+
+Ecological Site Concept
+The Loamy Over Clayey Uplands have loamy-surfaced soils to about 10 inches and a thick layer of clay subsurface soils underneath. The properties associated with uplands and clayey soils form the unique plant community of these sites.
+
+Soil Features
+The soils of this site are moderate to deep and characterized by a thick Bt layer of clay just below a fine sandy loam surface. The Kirvin series is representative and consists of well drained soils. These gently sloping to moderately steep soils formed in weakly consolidated and stratified loamy, sandy, and clayey fluvial marine deposits on uplands of the Claiborne geological group. The series is classified as a fine, mixed, semiactive, thermic Typic Hapludult. Other soils are included with the ecological site and all are defined by a thick clay subsurface soil below the surface. Besides the Kirvin series, these soils are correlated: Angie, Arriola, Bayoudan, Bellwood, Bonwier, Bryarly, Bub, Burkeville, Conroe, Cuthbert, Darley, Eastwood, Etoile, Galilee, Gore, Hornbeck, Huntsburg, Lacerda, Maben, Mahan, Hallsummit, Naclina, Nacogdoches, Natchitoches, Newco, Nikful, Oula, Raylake, Redco, Redsprings, Rosenwall, Ruple, Sacul, Sugartown, Tahoula, Trawick, and Woodtell.
+
+Reference Community
+Shortleaf pines comprise the majority of the overstory. Shortleaf occurrence of the total overstory on any given site is between 75 and 100 percent. Post oaks are usually found on the site as well. Post oaks range from 0 to 25 percent of the total overstory canopy. Blackjack oak (Quercus marilandica), black hickory (Carya texana), and southern red oak (Quercus falcata) are occasionally seen in the overstory and add to the diversity of the site. Along with American beautyberry, yaupon (Ilex vomitoria), deerberry (Vaccinium stamineum) , and rusty blackhaw (Vibrunum rufidulum) are usually associated with the sites as well. The shrub-layer height and densities fluctuate with time since the last fire. Fire prunes their growth back and allows the understory grasses and forbs to stay diverse and abundant. The shrub-layer is the main driver between communities 1.1 and 1.2. As the shrubs begin to grow above 4.5 feet and become denser, the community moves along the pathway from 1.1 to 1.2.
+
+Reference Plants List
+shortleaf pine, post oak, black cherry, black hickory, southern red oak, loblolly pine, sweetgum, blackjack oak, white ash, longleaf woodoats, Ravenel's rosette grass, needleleaf rosette grass, little bluestem, twisted spikerush, purpletop tridens, littlehead nutrush, hairy bedstraw, eastern poison ivy, Canadian horseweed, St. Andrew's cross, slender yellow woodsorrel, devil's grandmother, parsley hawthorn, Canadian blacksnakeroot, Nuttall's wild indigo, slender lespedeza, Texas ironweed, spurred butterfly pea, doubleform snoutbean, Virginia snakeroot, helmet flower, sidebeak pencilflower, flowering spurge, western brackenfern, resurrection fern, American beautyberry, yaupon, sawtooth blackberry, deerberry, rusty blackhaw, possumhaw, farkleberry, post oak, winged elm, sweetgum, loblolly pine, white fringetree, hophornbeam, shortleaf pine, southern red oak, white ash, blackjack oak, black hickory, Virginia creeper, saw greenbrier, cat greenbrier, roundleaf greenbrier, lanceleaf greenbrier, summer grape, evening trumpetflower, trumpet creeper
+
+MLRA - 133B
+Legacy Ecosite ID - F133BY003TX"|"22703695"|"23093809"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Kisatchie soil is a minor component."|"22703696"|"23093810"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F133BY004TX"|"F133BY004TX - Loamy Claypan Upland
+
+Ecological Site Concept
+The Loamy Claypan Uplands have loamy-surfaced soils with an abrupt texture change into clay. The textural difference creates the primary force in formation of the the plant community. The sites are known to be very droughty in short periods without precipitation and very wet with low amounts of rain.
+
+Soil Features
+Moswell loam is the representative soil of the Loamy Claypan Uplands. The ecological site is associated with loamy soils over a fine-textured clay subsurface occurring on the Yegua, Manning and Caddell geologic formations. Even though the subsoil has high clay content and is very-slowly permeable, the site is well-drained and does not pond water for any great length. The clay in the subsoil does shift and swell during droughty periods and wet periods. This is evidenced when looking at the crooked tree trunks of the older trees. The abrupt change in clay content from the upper to lower horizons does cause some root restriction. Other soils correlated to this site include: Herty, Kellison, Keltys, Kisatchie, Kitterll, Oakhurst, Rayburn, Urland, and Woodville.
+
+Reference Community
+Shortleaf pine and post oak comprise the majority of the overstory. The occurrence of shortleaf pine in the overstory at any given site is usually 70 to 90 percent. Post oaks have established on the sites at 10 to 30 percent. Other hardwoods are sometimes found colonizing the areas in lesser amounts (less than 5 percent), including oak and hickory species. American beautyberry is extremely prevalent and makes up the majority of the understory shrub layer.
+
+Reference Plants List
+shortleaf pine, post oak, southern red oak, black hickory, blackjack oak, longleaf woodoats, sedge, variable panicgrass, Texas ironweed, devil's grandmother, Virginia tephrosia, partridgeberry, Nuttall's wild indigo, bedstraw, American beautyberry, yaupon, parsley hawthorn, possumhaw, farkleberry, southern arrowwood, shortleaf pine, post oak, southern red oak, blackjack oak, black hickory, hophornbeam, winged elm, loblolly pine, muscadine, greenbrier, blackberry, evening trumpetflower, Alabama supplejack, Virginia creeper
+
+MLRA - 133B
+Legacy Ecosite ID - F133BY004TX"|"22703696"|"23093811"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Lucy soil is a minor component."|"22703697"|"23093812"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F133BY006TX"|"F133BY006TX - Northern Sandy Loam Upland
+
+Ecological Site Concept
+The Northern Sandy Loam Uplands site has a sandy or loamy surface soil with a gradual increase in clay through the subsurface horizons. The gradual increase in clay content aids in moisture retention, allowing the formation of a well-developed vegetative community. The ecological site has more biomass development than the deep sandy uplands, sometimes located adjacently upslope, and a more open canopy than the adjacent clayey uplands, located downslope.
+
+Soil Features
+The soils of this site are deep and characterized by sands through the A and E profiles. The Bt layer is generally a sandy clay loam occurring between 20 and 40 inches continuing through the lower profiles of the soil. The Briley series is a representative soil and consists of very deep, well drained, moderately permeable soils that formed in sandy and loamy Coastal Plain sediments. The series is classified as a loamy, siliceous, semiactive, thermic Arenic Paleudult. Other soils are included within the ecological site and all are defined by their upper horizons of sands and presence of an argillic between 20 and 40 inches. Besides the Briley series, Darbonne, Larue, Lilbert, Rentzel, Rosalie, Tenaha, Trep, and Wolfpen are correlated to the ecological site.
+
+Reference Community
+Shortleaf pine trees comprise the majority of the overstory. The occurrence in the overstory on any given site is between 75 to 100 percent. Blackjack and post oaks have established on some sites, comprising up to 20 percent of the overall canopy structure. Farkleberry, winged sumac (Rhus copallinum), yaupon (Ilex vomitoria), sassafras (Sassafras albidium), and oak saplings are common in the mid-story layer, increasing in abundance with time since last fire. Both communities are characterized by a diverse ground layer with sometimes large accumulations of plant litter, 15 to 45 percent. Little bluestem and needleleaf rosette grass (Dichanthelium aciculare) are the most abundant grasses seen in the two communities, at times seemingly dominating the entire area. Indicator forbs include Virginia tephrosia (Tephrosia virginiana), St. Andrew's cross (Hypericum hypericoides), Nuttall's wild indigo (Baptistia nuttalliana), and Atlanta pigeonwings (Clitoria mariana). 
+
+Reference Plants List
+shortleaf pine, blackjack oak, post oak, southern red oak, black hickory, bluejack oak, little bluestem, needleleaf rosette grass, variable panicgrass, splitbeard bluestem, switchgrass, eastern poison ivy, Texas bullnettle, whitemouth dayflower, shiny goldenrod, Louisiana nerveray, St. Andrew's cross, Nuttall's wild indigo, Atlantic pigeonwings, New Jersey tea, nettleleaf noseburn, Gulf Coast yucca, butterfly milkweed, spotted beebalm, sidebeak pencilflower, sessileleaf ticktrefoil, western brackenfern, American beautyberry, yaupon, sassafras, winged sumac, farkleberry, smallflower pawpaw, blackjack oak, black hickory, post oak, eastern redcedar, shortleaf pine, bluejack oak, summer grape, Virginia creeper, cat greenbrier, muscadine
+
+MLRA - 133B
+Legacy Ecosite ID - F133BY006TX"|"22703697"|"23093813"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Guyton, frequently flooded soil is a minor component."|"22703698"|"23093814"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F133BY017TX"|"F133BY017TX - Loamy Bottomland
+
+Ecological Site Concept
+The ecological site has very deep, somewhat poorly drained soils that are frequently flooded. The site is typically flooded for brief to long periods during normal rainfall years. They will stay flooded starting in November and ending in May. The loamy-textured soils combined with the flooding frequency form the plant community. 
+
+Soil Features
+Mattex and Manco are two of the representative soils of the Loamy Bottomlands. This ecological site formed from loamy alluvium and is associated with very deep, somewhat poorly drained, slowly permeable loamy entisols on bottomlands. The first gleyed-subsurface horizon usually appears within 8 to 11 inches. The gleying and other redoximorphic features continue through the profile usually past 80 inches. Gleying and redoximorphic features are caused by prolonged inundation. The sites are very flat with slopes from 0 to 1 percent. Other soils correlated to this site include: Amy, Angelina, Bibb, Bleakwood, Dreka, Groom, Guyton, Kanebreak, Mathiston, Mattex, Nahatche, Pophers, Sardis, Marietta, Mooreville, Ochlockonee, and Socagee.
+
+Reference Community
+The Loamy Bottomland system communities are based highly on micro-relief throughout the landscape. A subtle rise or fall of mere inches can drastically alter the vegetative composition. The willow oak community (1.1) represents the middle-relief elevation in comparison to communities 1.2 and 1.3. Plant species occurring in the willow oak community are usually facultative wet according to the U.S. Army Corps' Wetland Delineation Manual (2010). Understory indicators include blunt broom sedge (Carex tribuloides), smallspike false nettle (Boehmeria cylindrical), and American Buckwheat vine (Brunnichia ovata).
+
+Reference Plants List
+willow oak, water oak, overcup oak, laurel oak, swamp chestnut oak, sweetgum, blackgum, American elm, red maple, giant cane, blunt broom sedge, greater bladder sedge, slender woodoats, marsh flatsedge, smallspike false nettle, camphor pluchea, Virginia dayflower, Canada germander, smallflower thoroughwort, smooth hedgenettle, sensitive fern, false indigo bush, St. Peterswort, sweetscent, American snowbell, possumhaw, dwarf palmetto, willow oak, laurel oak, green ash, cherrybark oak, sugarberry, American buckwheat vine, climbing dogbane, climbing hempvine, catbird grape, American wisteria
+
+MLRA - 133B
+Legacy Ecosite ID - F133BY017TX"|"22703698"|"23093815"
+07/29/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Providence component makes up 20 percent of the map unit. Slopes are 5 to 15 percent. This component is on interfluves on coastal plains. The parent material consists of thin mantle loess over loamy alluvium. Depth to a root restrictive layer, fragipan, is 18 to 38 inches. The natural drainage class is moderately well drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 23 inches during January, February, March. Organic matter content in the surface horizon is about 2 percent. This component is in the F133BY005TX Loamy Upland ecological site. Nonirrigated land capability classification is 4e.  This soil does not meet hydric criteria.   "|"22703699"|"23093816"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F133BY005TX"|"F133BY005TX - Loamy Upland
+
+Ecological Site Concept
+The Loamy Uplands have very deep loamy soils greater than 80 inches. The ecological sites produce high amounts of plant biomass because of the loamy growing medium with nonrestrictive soil textures through the soil profiles with adequate water-holding capacity. The sites generally have the most robust plant communities of any adjacent sites.
+
+Soil Features
+The soils of this site are deep and characterized by loams throughout the soil profile, measured to 80 inches. The soils belong to the alfisol and ultisol orders and have well developed horizons. The Bowie series is a representative soil and consists of very deep, well drained, moderately slowly permeable soils that formed in loamy residuum from Southern Coastal Plain marine deposits. The series is classified as a fine-loamy, siliceous, semiactive, thermic Plinthic Paleudult. Not all soils within the ecological site will have the same taxonomic classification, but produce similar vegetative communities. Other soils are included within the ecological site and all are defined by deep fine-loamy and fine-silty control sections. The soils included are well drained or moderately well drained. Soils that are moderately well drained have a general increase in clay in the lower horizons. Besides the Bowie series, the Alto, Beauregard, Blevins, Diboll, Elrose, Eylau, Fuller, Gunter, Keatchie, Keithville, Kullit, Latex, Oakwood, Olla, Penning, Rigolette, Rogan, Ruston, Saffell, Sailes, Sawlit, Sawtown, Sawyer, Scottsville, Smithdale, Ulto, and Warnock are correlated to the Loamy Uplands.
+
+Reference Community
+The Shortleaf Pine/Red Oak Woodland (1.1) is the first community in State 1. Litter accumulation is moderate and understory vegetation is naturally dense. The overstory canopy is dominated by shortleaf pine and red oaks, and are usually in higher densities (total basal area) than the adjacently surrounding upland sites. The overstory canopy can also be interspersed with post oak (Quercus stellata), blackjack oak (Quercus marilandica), white oak (Quercus alba), and black hickory (Carya texana). The sites can be dominated by shortleaf pines, 100 percent canopy cover, but range as low as 60 percent with the oak and hickories comprising the rest of the overstory. Given time to mature, the sites produce tall, straight overstory pines which can reach heights above 100 feet. This community is characterized by a dense ground layer with relatively no bare ground (less than 5 percent). Needleleaf rosette grass (Dichanthelium aciculare) is a highly abundant grass throughout the herbaceous understory. Other grasses seen, though not as dominant are longleaf woodoats (Chasmanthium sessiliflorum), variable panicgrass (Dichanthelium commutatum), and little bluestem (Schizachyrium scoparium). Forbs occupying the site include flowering spurge (Euphorbia corollata), hairy small-leaf ticktrefoil (Desmodium ciliare), and downy milkpea (Galactia volubilis). The shrub layer of the community is very conspicuous, containing numerous American beautyberry (Callicarpa americana) and yaupon (Ilex vomitoria).
+
+Reference Plants List
+shortleaf pine, southern red oak, blackjack oak, post oak, black hickory, needleleaf rosette grass, variable panicgrass, little bluestem, longleaf woodoats, eastern poison ivy, dogfennel, flowering spurge, Nuttall's wild indigo, St. Andrew's cross, hairy small-leaf ticktrefoil, slender yellow woodsorrel, whitemouth dayflower, downy milkpea, nettleleaf noseburn, western brackenfern, American beautyberry, yaupon, sawtooth blackberry, parsley hawthorn, farkleberry, rusty blackhaw, summer grape, Virginia creeper, saw greenbrier, cat greenbrier, laurel greenbrier
+
+MLRA - 133B
+Legacy Ecosite ID - F133BY005TX"|"22703699"|"23093817"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"22703710"|"23093837"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Hebert soil is a minor component."|"22703710"|"23093838"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"22703711"|"23093839"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Sterlington component makes up 85 percent of the map unit. Slopes are 0 to 1 percent. This component is on natural levees on Arkansas River delta plains. The parent material consists of silty alluvium derived from sedimentary rock. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is very high.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. There is no zone of water saturation within a depth of 72 inches. Organic matter content in the surface horizon is about 2 percent. This component is in the F131BY003AR Loamy Flood Plain ecological site. Nonirrigated land capability classification is 1.  This soil does not meet hydric criteria.  There are no saline horizons within 30 inches of the soil surface. "|"22703711"|"23093840"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"22703712"|"23093841"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Rilla soil is a minor component."|"22703712"|"23093842"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"22703713"|"23093843"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Perry soil is a minor component."|"22703713"|"23093844"
+08/22/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Tensas, occasionally flooded component makes up 80 percent of the map unit. Slopes are 0 to 1 percent. This component is on natural levees on Mississippi River delta plains. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is very low.  Available water to a depth of 60 inches (or restricted depth) is very high.  Shrink-swell potential is moderate. This soil is frequently flooded. It is not ponded. A seasonal zone of water saturation is at 24 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 2 percent. This component is in the F131AY405LA Tensas Basin - Somewhat Poorly Drained Bottomland Hardwoods ecological site. Nonirrigated land capability classification is 4w.  This soil meets hydric criteria.   "|"22703763"|"23093920"
+09/06/2018 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Sharkey, occasionally flooded soil is a minor component."|"22703764"|"23093921"
+09/06/2018 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Sharkey, frequently flooded soil is a minor component."|"22703765"|"23093922"
+09/06/2018 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Dundee soil is a minor component."|"22703766"|"23093923"
+09/06/2018 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Miscellaneous water is a miscellaneous area."|"22703609"|"23093681"
+09/06/2018 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Water is a miscellaneous area."|"22703648"|"23093746"

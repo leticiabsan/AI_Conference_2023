@@ -1,0 +1,7 @@
+"SMILA2"|"Smilax"|"greenbrier"|||"22589584"|"94093145"
+"AMAR5"|"Ampelopsis arborea"|"peppervine"|||"22589584"|"94093146"
+"FOAC"|"Forestiera acuminata"|"eastern swampprivet"|||"22589584"|"94093147"
+"IVA"|"Iva"|"marshelder"|||"22589584"|"94093148"
+"TORA2"|"Toxicodendron radicans"|"eastern poison ivy"|||"22589584"|"94093149"
+"CRATA"|"Crataegus"|"hawthorn"|||"22589584"|"94093150"
+"VITIS"|"Vitis"|"grape"|||"22589584"|"94093151"

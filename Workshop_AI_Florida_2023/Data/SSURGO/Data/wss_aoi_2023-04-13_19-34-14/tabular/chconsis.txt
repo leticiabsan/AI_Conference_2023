@@ -1,0 +1,3 @@
+"Firm"||||"Deformable"|"Nonsticky"|"Nonplastic"|Yes|"66811117"|"7811994"
+"Friable"||||"Semideformable"|"Nonsticky"|"Nonplastic"|Yes|"66811116"|"7811993"
+"Firm"||||"Deformable"|"Nonsticky"|"Nonplastic"|Yes|"66811118"|"7811995"

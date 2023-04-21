@@ -1,0 +1,9 @@
+"Non-MLRA Soil Survey Area"|"LA033"|"East Baton Rouge Parish, Louisiana"||07/01/2007 00:00:00|"certified, major components"|08/31/2022 14:11:17|"1.	The CoB-2w9x6-Colyell silt loam, 1 to 3 percent slopes, rarely flooded"" mapunit was edited and improved. The name of the project ""DI- 7-DEN - RV Texture NOT Indicated or Multiple RVs Indicated"" indicates what was edited.
+
+The tabular database was edited and populated according to guidance in Exhibits A and B of National Instruction (NI-305), and Part 610 of the National Soil Survey Handbook. Any spatial data edits were certified correct by the Soil Survey region GIS specialist, State Soil Scientist (SSS), and by the National Digitizing Center. The SSS certified the data population for all map units, and concurred with correlation of all projects mentioned, as they were documented in Soil Survey Area Legend(s), and in the Project Correlation tables.
+
+The SSS certified the data population for all map units, and concurred with correlation of all projects mentioned, as they were documented in Soil Survey Area Legend(s) and in the Project Correlation table.
+
+This dataset also contains the following changes:
+Recalculated all national, regional, and local interpretations for all components.
+"|"15023"|"79027"|"78929"

@@ -1,0 +1,7 @@
+"weak fine granular structure"|Yes|"67861857"|"39211479"
+"weak fine subangular blocky structure"|Yes|"67861860"|"39211480"
+"weak fine granular structure"|Yes|"67861722"|"39211481"
+"moderate medium subangular blocky structure"|Yes|"67861801"|"39211530"
+"weak fine subangular blocky structure"|Yes|"67861802"|"39211531"
+"weak fine granular structure"|Yes|"67861803"|"39211528"
+"weak fine subangular blocky structure"|Yes|"67861800"|"39211529"

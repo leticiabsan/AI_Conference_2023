@@ -1,0 +1,1 @@
+"Non-MLRA Soil Survey Area"|"LA047"|"Iberville Parish, Louisiana"||05/01/1975 00:00:00|"certified, major components"|09/06/2022 17:51:51|"This Soil Survey Area (SSR) is being exported as part of the 2023 ASR. There were no projects conducted in this SSR for FY22, but all national, regional, and local interpretations for all components were recalculated."|"16881"|"79984"|"79886"

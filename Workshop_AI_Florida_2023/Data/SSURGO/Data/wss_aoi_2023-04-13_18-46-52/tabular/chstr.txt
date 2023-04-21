@@ -1,0 +1,7 @@
+"Weak"|"Fine"|"Granular"|||"39211479"|"47745185"
+"Weak"|"Fine"|"Subangular blocky"|||"39211480"|"47745186"
+"Weak"|"Fine"|"Granular"|||"39211481"|"47745187"
+"Moderate"|"Medium"|"Subangular blocky"|||"39211530"|"47745240"
+"Weak"|"Fine"|"Subangular blocky"|||"39211531"|"47745241"
+"Weak"|"Fine"|"Granular"|||"39211528"|"47745238"
+"Weak"|"Fine"|"Subangular blocky"|||"39211529"|"47745239"

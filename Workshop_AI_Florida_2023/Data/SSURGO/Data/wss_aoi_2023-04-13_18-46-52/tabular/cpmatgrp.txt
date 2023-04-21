@@ -1,0 +1,8 @@
+"silty alluvium"|Yes|"22935921"|"16963509"
+"clayey alluvium over loamy alluvium"|Yes|"22935923"|"16963511"
+"coarse-silty alluvium"|Yes|"22935922"|"16963510"
+"clayey alluvium over loamy alluvium"|Yes|"22935919"|"16963507"
+"clayey alluvium"|Yes|"22935920"|"16963508"
+"silty alluvium"|Yes|"22935893"|"16963483"
+"silty alluvium"|Yes|"22935946"|"16963530"
+"loamy alluvium"|Yes|"22935943"|"16963529"

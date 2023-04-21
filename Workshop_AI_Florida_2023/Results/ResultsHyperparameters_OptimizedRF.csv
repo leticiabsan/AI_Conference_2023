@@ -1,0 +1,5 @@
+hyperparams,Time
+"{'max_depth': 48, 'max_features': 'sqrt', 'n_estimators': 1200}",42.06942558288574
+"{'max_depth': 48, 'max_features': 'sqrt', 'n_estimators': 1200}",60.40039324760437
+"{'max_depth': 48, 'max_features': 'sqrt', 'n_estimators': 1200}",48.71682047843933
+"{'max_depth': 48, 'max_features': 'sqrt', 'n_estimators': 100}",42.22229361534119

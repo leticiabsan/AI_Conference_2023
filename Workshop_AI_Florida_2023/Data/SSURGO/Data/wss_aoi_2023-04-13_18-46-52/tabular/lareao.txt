@@ -1,0 +1,6 @@
+"County or Parish"|"LA047"|"Iberville"|417800|"16881"|"523119"
+"MLRA"|"131A"|"Southern Mississippi River Alluvium"|417800|"16881"|"523120"
+"MLRA Soil Survey Area"|"7-DEN"|"Denham Springs, Louisiana"||"16881"|"523121"
+"MLRA Soil Survey Regional Office Area"|"7"|"Auburn, AL"||"16881"|"523122"
+"Rainfall Factor Area (USLE)"|"500"|"Rainfall Factor"|417800|"16881"|"523123"
+"State or Territory"|"LA"|"Louisiana"|417800|"16881"|"523124"

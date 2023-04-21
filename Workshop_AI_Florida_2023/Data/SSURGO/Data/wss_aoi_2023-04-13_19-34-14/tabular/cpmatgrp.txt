@@ -1,0 +1,5 @@
+"silty alluvium"|Yes|"22589577"|"16688632"
+"clayey alluvium derived from interbedded sedimentary rock over loamy alluvium derived from interbedded sedimentary rock"|Yes|"22589578"|"16688633"
+"clayey alluvium"|Yes|"22589579"|"16688634"
+"silty alluvium"|Yes|"22589580"|"16688635"
+"clayey over loamy alluvium"|Yes|"22589584"|"16688637"

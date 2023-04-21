@@ -1,0 +1,7 @@
+1|"Clayey"||||"16688637"|"23673337"
+2|"Loamy"||"Alluvium"||"16688637"|"23673338"
+|"Silty"||"Alluvium"|"Sedimentary rock"|"16688635"|"23673335"
+|"Clayey"||"Alluvium"|"Interbedded sedimentary rock"|"16688634"|"23673334"
+2|"Loamy"||"Alluvium"|"Interbedded sedimentary rock"|"16688633"|"23673333"
+1|"Clayey"||"Alluvium"|"Interbedded sedimentary rock"|"16688633"|"23673332"
+|"Silty"||"Alluvium"||"16688632"|"23673331"

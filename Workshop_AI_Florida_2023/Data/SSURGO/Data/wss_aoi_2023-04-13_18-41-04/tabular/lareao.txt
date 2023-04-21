@@ -1,0 +1,7 @@
+"County or Parish"|"LA025"|"Catahoula"|473500|"19534"|"518513"
+"MLRA"|"133B"|"Western Coastal Plain"|107151|"19534"|"518514"
+"MLRA"|"134"|"Southern Mississippi Valley Loess"|32383|"19534"|"518515"
+"MLRA"|"131B"|"Arkansas River Alluvium"|59240|"19534"|"518516"
+"MLRA"|"131A"|"Southern Mississippi River Alluvium"|274726|"19534"|"518517"
+"Rainfall Factor Area (USLE)"|"500"|"Rainfall Factor"||"19534"|"518518"
+"State or Territory"|"LA"|"Louisiana"||"19534"|"518519"

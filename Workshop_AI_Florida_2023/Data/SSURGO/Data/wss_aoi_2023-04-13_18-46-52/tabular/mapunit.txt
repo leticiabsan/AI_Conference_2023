@@ -1,0 +1,4 @@
+"W"|"Water"|"Consociation"||24247|||||||"Not prime farmland"|||||"Order 2"||||||"16881"|"808502"
+"Cl"|"Commerce silt loam, 0 to 1 percent slopes"|"Consociation"||33828|||||||"All areas are prime farmland"|||||"Order 2"||||||"16881"|"1451373"
+"Cm"|"Commerce silty clay loam"|"Consociation"||23052|||||||"All areas are prime farmland"|||||"Order 2"||||||"16881"|"1451374"
+"CX"|"Convent and Robinsonville soils, frequently flooded"|"Undifferentiated group"||2355|||||||"Not prime farmland"|||||"Order 2"||||||"16881"|"1451375"
